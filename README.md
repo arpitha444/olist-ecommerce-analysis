@@ -9,7 +9,7 @@ Brazilian E-Commerce Public Dataset by Olist: https://www.kaggle.com/datasets/ol
 ## Schema Diagram
 
 <p align="center">
-  <img src="schema.png" alt="Database Schema Diagram" width="80%">
+  <img src="images and gifs/schema.png" alt="Database Schema Diagram" width="80%">
 </p>
 
 ## Key Findings
